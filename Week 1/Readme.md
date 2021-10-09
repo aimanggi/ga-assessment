@@ -4,7 +4,7 @@
 
 ### Task 1: Understanding Design Mock-up
 
-![Untitled](Week%201%20a8e9b5e1c0574c03a51e162aaffe1dd9/Untitled.png)
+![image](https://user-images.githubusercontent.com/44232213/136653367-7e9ade1e-0b37-42db-b1f2-766fa126b350.png)
 
 The image above is a screenshot a product listing design. If you were given this design to turn into a coded HTML template, how would you approach it? *Without writing any CSS or HTML code*, explain your thinking process and approach to this design.
 
