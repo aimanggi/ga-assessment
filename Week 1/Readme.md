@@ -26,3 +26,10 @@ This assignment will be assessed on the following criteria:
 - Responsive design will have plus score
 
 ## Submission
+Deadline: Friday, 15 October 2021, 23:59 WIB
+
+- Create your own git repository
+- Use `weekly-assessment-1` as project name
+- Task 1: Put your answer in `Readme.md`
+- Task 2: Free use your own template
+- Push your your result
